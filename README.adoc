@@ -11,6 +11,7 @@ Platforms:
 - link:https://developer.android.com/training/basics/firstapp/index.html[Android]
 - link:https://processing.org/[Processing], a Java/JS based language for
   visualisation
+
 Project Skeletons
 ~~~~~~~~~~~~~~~~~
 link:http://yeoman.io/[Yeoman] is a wonderful tool for generating the
@@ -38,6 +39,7 @@ old.
 
 Tutorials
 ~~~~~~~~~
+
 Python
 ^^^^^^
 - link:https://docs.djangoproject.com/en/dev/intro/tutorial01/[Django]
@@ -45,4 +47,3 @@ Python
 
 Java
 ^^^^
-
