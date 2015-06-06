@@ -1,0 +1,48 @@
+YRS Notes
+---------
+
+Resources
+~~~~~~~~~
+link:https://www.khanacademy.org/computing/computer-programming[Khan
+Academy: Computer Programming]
+
+Platforms:
+^^^^^^^^^^
+- link:https://developer.android.com/training/basics/firstapp/index.html[Android]
+- link:https://processing.org/[Processing], a Java/JS based language for
+  visualisation
+Project Skeletons
+~~~~~~~~~~~~~~~~~
+link:http://yeoman.io/[Yeoman] is a wonderful tool for generating the
+boilerplate code you'll need for most projects, it supports a variety of
+different technologies, but is mainly used in javascript based projects,
+although you can find generators for:
+- ASP.NET 5
+- Wordpress
+- Python (Flask)
+- Python (Django)
+
+javascript-wise you can find generators for these technologies and more:
+- React.js
+- AngularJS
+- Backbone
+
+Of particular note is a
+link:https://github.com/mattcreager/generator-column[generator targetted
+for hackathons]
+
+
+If you're developing an *android* application, then *AVOID*
+link:http://androidkickstartr.com/[AndroidKickstarR] since it's very
+old.
+
+Tutorials
+~~~~~~~~~
+Python
+^^^^^^
+- link:https://docs.djangoproject.com/en/dev/intro/tutorial01/[Django]
+- link:http://flask.pocoo.org/docs/0.10/tutorial/[Flask]
+
+Java
+^^^^
+
